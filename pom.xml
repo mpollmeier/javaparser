@@ -11,10 +11,10 @@
         <module>javaparser-symbol-solver-testing</module>
     </modules>
 
-    <groupId>com.github.javaparser</groupId>
+    <groupId>io.joern</groupId>
     <artifactId>javaparser-parent</artifactId>
     <packaging>pom</packaging>
-    <version>3.24.3-SNAPSHOT</version>
+    <version>3.24.3-SL1</version>
 
     <name>javaparser-parent</name>
     <url>https://github.com/javaparser</url>
@@ -170,11 +170,11 @@
         <!-- URLs available from: https://central.sonatype.org/pages/ossrh-guide.html#accessing-repositories -->
         <snapshotRepository>
             <id>ossrh</id>
-            <url>https://oss.sonatype.org/content/repositories/snapshots</url>
+            <url>https://s01.oss.sonatype.org/content/repositories/snapshots</url>
         </snapshotRepository>
         <repository>
             <id>ossrh</id>
-            <url>https://oss.sonatype.org/service/local/staging/deploy/maven2/</url>
+            <url>https://s01.oss.sonatype.org/service/local/staging/deploy/maven2/</url>
         </repository>
     </distributionManagement>
 
