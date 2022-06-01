@@ -14,7 +14,7 @@
     <groupId>io.joern</groupId>
     <artifactId>javaparser-parent</artifactId>
     <packaging>pom</packaging>
-    <version>3.24.3-SL3-SNAPSHOT</version>
+    <version>3.24.3-SL3</version>
 
     <name>javaparser-parent</name>
     <url>https://github.com/javaparser</url>
@@ -155,7 +155,7 @@
         <connection>scm:git:git://github.com/mpollmeier/javaparser.git</connection>
         <developerConnection>scm:git:git@github.com:mpollmeier/javaparser.git</developerConnection>
         <url>https://github.com/mpollmeier/javaparser.git</url>
-        <tag>HEAD</tag>
+        <tag>javaparser-parent-3.24.3-SL3</tag>
     </scm>
 
     <issueManagement>
