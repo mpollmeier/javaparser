@@ -152,9 +152,9 @@
     </properties>
 
     <scm>
-        <connection>scm:git:git://github.com/javaparser/javaparser.git</connection>
-        <developerConnection>scm:git:git@github.com:javaparser/javaparser.git</developerConnection>
-        <url>https://github.com/javaparser/javaparser.git</url>
+        <connection>scm:git:git://github.com/mpollmeier/javaparser.git</connection>
+        <developerConnection>scm:git:git@github.com:mpollmeier/javaparser.git</developerConnection>
+        <url>https://github.com/mpollmeier/javaparser.git</url>
         <tag>HEAD</tag>
     </scm>
 
